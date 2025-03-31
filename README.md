@@ -1,6 +1,6 @@
 # Description
-This is the Technical Exam from Teiko.
-The detail problem description can be found in questions.txt
+This is a project for data analysis using Python (pandas) and SQL for cytometry data provided by Teiko.
+The detail problem description can be found in questions.txt.
 
 ## Setup the environment
 For Linux users, please use anaconda to create virtual environment.
