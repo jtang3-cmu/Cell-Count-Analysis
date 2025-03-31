@@ -5,17 +5,17 @@ The detail problem description can be found in questions.txt.
 ## Setup the environment
 For Linux users, please use anaconda to create virtual environment.
 1. run this command to create a virtual environment
-```bash
+`bash
 python3.10 -m venv venv
 '''
 
 3. activate the virtual environment
-```bash
+`bash
 source venv/bin/activate
 '''
 
 4. install the required packages
-```bash
+'bash
 pip install -r requirements.txt
 '''
 
