@@ -1,3 +1,7 @@
+# Description
+This is the Technical Exam from Teiko.
+The detail problem description can be found in questions.txt
+
 ## Setup the environment
 For Linux users, please use anaconda to create virtual environment.
 1. run this command to create a virtual environment
@@ -10,12 +14,14 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ## Files Directory
+```plaintext
 cell_count_project/
 ├── README.md
 ├── requirements.txt
 ├── cell_count_analysis.py
 └── data/
     └── cell-count.csv
+```
 
 ## Python Question
 To get the result for the python questions, please execute the following command: python cell_count_analysis.py
