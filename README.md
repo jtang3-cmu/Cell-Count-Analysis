@@ -5,13 +5,13 @@ The detail problem description can be found in questions.txt.
 ## Setup the environment
 For Linux users, please use anaconda to create virtual environment.
 1. run this command to create a virtual environment
-python3 -m venv venv
+'''python3 -m venv venv'''
 
 2. activate the virtual environment
-source venv/bin/activate
+'''source venv/bin/activate'''
 
 3. install the required packages
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 ## Files Directory
 ```plaintext
