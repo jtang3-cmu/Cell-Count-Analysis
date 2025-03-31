@@ -7,14 +7,17 @@ For Linux users, please use anaconda to create virtual environment.
 1. run this command to create a virtual environment
 ```bash
 python3.10 -m venv venv
+'''
 
 3. activate the virtual environment
 ```bash
 source venv/bin/activate
+'''
 
 4. install the required packages
 ```bash
 pip install -r requirements.txt
+'''
 
 ## Files Directory
 ```plaintext
