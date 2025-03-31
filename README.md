@@ -4,16 +4,14 @@ The detail problem description can be found in questions.txt.
 
 ## Setup the environment
 For Linux users, please use anaconda to create virtual environment.
-1. run this command to create a virtual environment
-‵python3.10 -m venv venv‵
+1. Run this command to create a virtual environment:  
+   `python3.10 -m venv venv`
 
+2. Activate the virtual environment:  
+   `source venv/bin/activate`
 
-3. activate the virtual environment
-‵source venv/bin/activate‵
-   
-
-4. install the required packages
-‵pip install -r requirements.txt‵
+3. Install the required packages:  
+   `pip install -r requirements.txt`
    
 
 ## Files Directory
